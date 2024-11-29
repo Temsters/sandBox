@@ -60,7 +60,7 @@ var modelButton = document.getElementById("model-button");
 
         if (modelName == "XYZ") {
             modelName = "CPRG";
-            modelText.innerHTML = "Model CPRG"
+            modelText.innerHTML = "Model CPRG";
         } else if (modelName == "CPRG") {
             modelName = "XYZ";
             modelText.innerHTML = "Model XYZ";
